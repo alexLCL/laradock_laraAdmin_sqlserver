@@ -8,3 +8,5 @@
 
 后台模板使用[Laravel-Admin](https://laravel-admin.org/docs/zh/installation) 
 
+![效果图](https://raw.githubusercontent.com/alexLCL/laradock_laravel-Admin_sqlserver/master/public/upload/20190626173006.png)
+
