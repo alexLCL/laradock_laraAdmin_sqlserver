@@ -6,5 +6,5 @@
 - 然后安装php的sqlsrv扩展，把env中的 PHP_FPM_INSTALL_MSSQL改为true
 - 之后再env中添加一条 DB_HOST=mssql
 
-后台模板使用[Larave-Admin](https://laravel-admin.org/docs/zh/installation) 
+后台模板使用[Laravel-Admin](https://laravel-admin.org/docs/zh/installation) 
 
